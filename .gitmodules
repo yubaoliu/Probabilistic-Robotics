@@ -1,0 +1,6 @@
+[submodule "LNPR_BOOK_CODES"]
+	path = LNPR_BOOK_CODES
+	url = https://github.com/ryuichiueda/LNPR_BOOK_CODES.git
+[submodule "LNPR_SLIDES"]
+	path = LNPR_SLIDES
+	url = https://github.com/ryuichiueda/LNPR_SLIDES.git
